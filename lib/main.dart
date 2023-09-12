@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_animations/animations/animation_container.dart';
-import 'package:flutter_animations/animations/animation_opacity.dart';
+import 'package:flutter_animations/built_in_animations/animation_container.dart';
+import 'package:flutter_animations/built_in_animations/animation_opacity.dart';
 
 void main() {
   runApp(const MyApp());
